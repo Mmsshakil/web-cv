@@ -1,0 +1,42 @@
+body {
+  background-color: #EAF6F6;
+}
+
+.head {
+  background-color: #9fe6a0;
+  width: 100%;
+}
+.head:hover{
+  background-color: #94ebcd;
+}
+
+.about {
+  list-style: none;
+  text-align: center;
+  font-style: normal;
+}
+
+.about li a {
+  text-decoration: none;
+}
+
+.company{
+  letter-spacing: 8px;
+  font-style: arial;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+h1 {
+  color: black;
+}
