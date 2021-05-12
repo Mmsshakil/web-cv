@@ -13,7 +13,7 @@ body {
 .about {
   list-style: none;
   text-align: center;
-  font-family: 'Montez', cursive;
+  font-family: normal;
 }
 
 .about li a {
@@ -39,4 +39,5 @@ h3 {
 
 h1 {
   color: black;
+  font-family: 'Montez', cursive;
 }
