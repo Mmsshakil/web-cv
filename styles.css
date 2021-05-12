@@ -5,22 +5,20 @@ body {
 .head {
   background-color: #9fe6a0;
   width: 100%;
+  color: white;
 }
-.head:hover{
+
+.head:hover {
   background-color: #94ebcd;
 }
 
 .about {
   list-style: none;
   text-align: center;
-  font-family: normal;
+  font-style: normal;
 }
 
-.about li a {
-  text-decoration: none;
-}
-
-.company{
+.company {
   letter-spacing: 8px;
   font-style: arial;
 }
@@ -28,7 +26,7 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #ff8303;
   border-width: 5px;
   width: 5%;
 }
@@ -37,7 +35,8 @@ h3 {
   color: #66BFBF;
 }
 
-h1 {
-  color: black;
-  font-family: 'Montez', cursive;
+.tablbody {
+  border: 2px solid #34656d;
+  width: 100%;
+  padding: 5%;
 }
