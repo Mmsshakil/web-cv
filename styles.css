@@ -36,7 +36,12 @@ h3 {
 }
 
 .tablbody {
-  border: 2px solid #34656d;
+  border: 2px solid #14ffec;
   width: 100%;
   padding: 5%;
+  background-color: #e4fbff;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
 }
